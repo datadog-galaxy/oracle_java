@@ -1,0 +1,17 @@
+galaxy_info:
+  author: DATA
+  description: "OracleJava"
+  company: DATA DOG
+  license: BSD
+  min_ansible_version: 2
+
+  platforms:
+   - name: Debian
+   - name: Ubuntu
+
+  galaxy_tags:
+    - centos7
+    - ubuntu
+    - nginx
+
+dependencies: []
